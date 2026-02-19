@@ -51,9 +51,3 @@ Full Stack Developer with 5+ years of experience building AI-powered web applica
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateoKappa&show_icons=true&hide_title=true&hide_border=true&theme=default&bg_color=00000000&text_color=333333&icon_color=2b6cb0" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MateoKappa&hide_border=true&background=00000000&ring=2b6cb0&fire=1a365d&currStreakLabel=1a365d&sideLabels=333333&dates=555555" height="165" />
-</p>
